@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/duncan-mcg/duncan-mcg/main/program-principles-image.png" alt="Programming Principles Sketch" width="600">
+<img src="https://github.com/duncan-mcg/duncan-mcg/blob/main/Rubber%20duck%20debugging%20image.png" alt="Programming Principles Sketch" width="600">
 </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=50&color=4439F8&duration=2500&lines=Hi+There!+👋;+I'm+Duncan!;" />
